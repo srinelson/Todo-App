@@ -2,6 +2,8 @@
 
 Welcome to My To Do App! This web application helps you manage your tasks, stay organized, and boost your productivity. Whether you're tackling work projects, personal goals, or simply staying on top of your daily tasks, this app is designed to streamline your task management process.
 
+![App Screenshot](https://github.com/srinelson/Todo-App/blob/main/images/todo.jpg?raw=true)
+
 ## Table of Contents
 
 - [Features](#features)
